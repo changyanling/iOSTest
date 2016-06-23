@@ -1,5 +1,4 @@
-
-pod::Spec.new do |s|
+Pod::Spec.new do |s|
   s.name     = 'iOSTest'
   s.version  = '1.0'
   s.license  = 'MIT'
