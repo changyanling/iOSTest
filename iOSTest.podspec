@@ -8,8 +8,8 @@ Pod::Spec.new do |s|
   s.source   = { :git => 'https://github.com/changyanling/iOSTest.git', :tag => s.version, :submodules => true }
   s.requires_arc = true
   
-  s.public_header_files = 'iOSTest/TFBaseUtil.h'
-  s.source_files = 'iOSTest/TFBaseUtil.{h,m}'
+  s.public_header_files = 'iOSTest/TF{BaseUtil,URLManager}.h'
+s.source_files = 'iOSTest/TF{BaseUtil,URLManager}.{h,m}'
 
 end
 
