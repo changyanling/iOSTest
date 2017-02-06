@@ -26,6 +26,6 @@
  */
 - (void)anjjkk
 {
-    
+    NSLog(@"hello");
 }
 @end
