@@ -10,4 +10,8 @@
 
 @implementation TFBaseUtil
 
+- (void)initView
+{
+    
+}
 @end
