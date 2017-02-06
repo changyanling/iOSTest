@@ -12,4 +12,7 @@
 
 - (void)test;
 
+
+- (void)cdccwcw;
+
 @end
