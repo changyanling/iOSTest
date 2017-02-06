@@ -14,4 +14,9 @@
 {
     
 }
+
+- (void)binData
+{
+    
+}
 @end
