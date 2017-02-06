@@ -10,4 +10,6 @@
 
 @interface TFBaseUtil : NSObject
 
+- (void)test;
+
 @end
