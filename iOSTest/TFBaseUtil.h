@@ -15,4 +15,9 @@
 
 - (void)cdccwcw;
 
+/**
+ *
+ */
+- (void)newtest;
+
 @end
